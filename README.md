@@ -13,7 +13,7 @@ Every day, a new problem is assigned, covering various concepts like arrays, str
 ## 📚 **Contents of this Repository**  
 - **Solutions**: Each problem has its solution written in a structured, beginner-friendly, and efficient manner.  
 - **Topics Covered**: Arrays, Strings, Searching & Sorting, and more advanced topics to come!  
-- **Languages Used**: Solutions are primarily in **C++**, **Java**, or **Python**, depending on the context.  
+- **Languages Used**: Solutions are primarily in **Java** or **C++**, depending on the context.  
 
 ---
 
