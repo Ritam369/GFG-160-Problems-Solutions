@@ -41,7 +41,9 @@ Every day, a new problem is assigned, covering various concepts like arrays, str
 10. Day 10: Kadane's Algorithm  
 11. Day 11: Maximum Product Subarray
 12. Day 12: Max Circular Subarray Sum
-13. Day 13: Smallest Positive Missing Number 
+13. Day 13: Smallest Positive Missing Number
+14. Day 14: Implement Atoi
+15. Day 15: Add Binary Strings
 
 ---
 
