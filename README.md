@@ -38,7 +38,7 @@ Every day, a new problem is assigned, covering various concepts like arrays, str
 7. Day 7: Stock Buy and Sell (Multiple Transactions) 
 8. Day 8: Stock Buy and Sell – Max one Transaction Allowed  
 9. Day 9: Minimize the Heights II
-10.Day 10: Kadane's Algorithm  
+10. Day 10: Kadane's Algorithm  
 11. Day 11: Maximum Product Subarray
 12. Day 12: Max Circular Subarray Sum
 13. Day 13: Smallest Positive Missing Number
