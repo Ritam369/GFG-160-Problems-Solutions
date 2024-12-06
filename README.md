@@ -29,22 +29,22 @@ Every day, a new problem is assigned, covering various concepts like arrays, str
 - **Strings**: 🚧 Work in progress...  
 
 ### 🔢 List of Problems Solved  
-1. Day 1: Second Largest  
-2. Day 2: Move All Zeroes to End  
-3. Day 3: Reverse an Array  
-4. Day 4: Rotate Array  
-5. Day 5: Next Permutation 
-6. Day 6: Majority Element II 
-7. Day 7: Stock Buy and Sell (Multiple Transactions) 
-8. Day 8: Stock Buy and Sell – Max one Transaction Allowed  
-9. Day 9: Minimize the Heights II
-10. Day 10: Kadane's Algorithm  
-11. Day 11: Maximum Product Subarray
-12. Day 12: Max Circular Subarray Sum
-13. Day 13: Smallest Positive Missing Number
-14. Day 14: Implement Atoi
-15. Day 15: Add Binary Strings
-
+ Day 1: Second Largest  
+ Day 2: Move All Zeroes to End  
+ Day 3: Reverse an Array  
+ Day 4: Rotate Array  
+ Day 5: Next Permutation 
+ Day 6: Majority Element II 
+ Day 7: Stock Buy and Sell (Multiple Transactions) 
+ Day 8: Stock Buy and Sell – Max one Transaction Allowed  
+ Day 9: Minimize the Heights II
+ Day 10: Kadane's Algorithm  
+ Day 11: Maximum Product Subarray
+ Day 12: Max Circular Subarray Sum
+ Day 13: Smallest Positive Missing Number
+ Day 14: Implement Atoi
+ Day 15: Add Binary Strings
+ Day 16: Anagram
 ---
 
 ## 💡 **How to Contribute**  
