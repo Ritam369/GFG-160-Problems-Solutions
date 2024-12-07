@@ -35,7 +35,9 @@ public class NonRepeatingCharacter {
 
 //Optimal Solution
 
-//This solution uses a HashMap to keep track of the frequency of each character in the string. It then iterates through the string once, and whenever it encounters a character with a frequency of 1, it prints that character and returns. If no such character is found, it prints a message indicating no non-repeating character is found.
+//This solution uses a HashMap to keep track of the frequency of each character in the string. 
+//It then iterates through the string once, and whenever it encounters a character with a frequency of 1, it prints that character and returns. 
+//If no such character is found, it prints a message indicating no non-repeating character is found.
 
 import java.util.*;
 public class NonRepeatingChar {
