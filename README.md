@@ -45,6 +45,7 @@ Every day, a new problem is assigned, covering various concepts like arrays, str
 14. Day 14: Implement Atoi
 15. Day 15: Add Binary Strings
 16. Day 16: Anagram
+17. Day 17: Non Repeating Character
 ---
 
 ## 💡 **How to Contribute**  
