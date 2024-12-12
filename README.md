@@ -26,7 +26,8 @@ Every day, a new problem is assigned, covering various concepts like arrays, str
 ## 🚀 **Progress So Far**  
 ### 🗓️ Problems Solved by Topic  
 - **Arrays**: ✅ All problems solved!  
-- **Strings**: 🚧 Work in progress...  
+- **Strings**: ✅ All problems solved!
+- **Sortings**: 🚧 Work in progress... 
 
 ### 🔢 List of Problems Solved
 1. Day 1: Second Largest  
@@ -46,7 +47,9 @@ Every day, a new problem is assigned, covering various concepts like arrays, str
 15. Day 15: Add Binary Strings
 16. Day 16: Anagram
 17. Day 17: Non Repeating Character
-18. Day 18. Search Pattern (KMP-Algorithm)
+18. Day 18: Search Pattern (KMP-Algorithm)
+19. Day 19: Min Chars to Add for Palindrome
+20. Day 20: Strings Rotations of Each Other
 ---
 
 ## 💡 **How to Contribute**  
