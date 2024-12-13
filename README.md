@@ -50,6 +50,8 @@ Every day, a new problem is assigned, covering various concepts like arrays, str
 18. Day 18: Search Pattern (KMP-Algorithm)
 19. Day 19: Min Chars to Add for Palindrome
 20. Day 20: Strings Rotations of Each Other
+21. Day 21: Sort 0s, 1s and 2s
+22. Day 22: Find H-Index
 ---
 
 ## 💡 **How to Contribute**  
